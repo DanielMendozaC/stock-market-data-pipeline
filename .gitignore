@@ -1,0 +1,11 @@
+.DS_Store
+.env
+
+config.yml
+
+airflow.db
+airflow.cfg
+webserver_config.py
+
+log_script.log
+*.log
